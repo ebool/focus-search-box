@@ -1,0 +1,6 @@
+{
+  "name": "focus search box",
+  "version": "1.0",
+  "description": "chrome extension project for focusing on search box",
+  "manifest_version": 2
+}
