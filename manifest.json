@@ -2,7 +2,7 @@
   "name": "focus search box",
   "version": "1.0",
   "description": "chrome extension project for focusing on search box",
-  "permissions": ["tabs"],
+  "permissions": ["activeTab"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
